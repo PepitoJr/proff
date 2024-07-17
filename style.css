@@ -1,0 +1,15 @@
+.grace
+{
+    width: 500px;
+    height: 500px;
+}
+.pagination .page-item .page-link{
+
+    color: white;
+    font-weight: 700;
+    background-color: blue;
+}
+.test
+{
+    text-decoration: none;
+}
